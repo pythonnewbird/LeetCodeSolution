@@ -1,0 +1,1 @@
+SELECT p.FirstName,p.LastName,a.City,a.State from Person P LEFT OUTER JOIN Address a USING (PersonId)
