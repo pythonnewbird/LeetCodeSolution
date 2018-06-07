@@ -34,6 +34,34 @@
 | 235  | [二叉搜索树的最近公共祖先](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.5/235.%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88.py) | python   | easy       |      |
 | 257  | [二叉树的所有路径](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.5/257.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%89%80%E6%9C%89%E8%B7%AF%E5%BE%84.py) | python   | easy       |      |
 | 278  | [第一个错误的版本](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.5/278.%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%94%99%E8%AF%AF%E7%9A%84%E7%89%88%E6%9C%AC.py) | python   | easy       |      |
+==
+## 2018/6/6:<br>
+| #    | Title                                    | Solution | Difficulty | tips |
+| ---- | ---------------------------------------- | -------- | ---------- | ---- |
+| 290  | [单词模式](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.6/290.%E5%8D%95%E8%AF%8D%E6%A8%A1%E5%BC%8F.py) | python   | easy       |      |
+| 292  | [nim  game](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.6/292.nim%20game.py) | python   | easy       |      |
+| 303  | [区域和检索](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.6/303.%E5%8C%BA%E5%9F%9F%E5%92%8C%E6%A3%80%E7%B4%A2.py) | python   | easy       |      |
+| 342  | [4的幂](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.6/342.4%E7%9A%84%E5%B9%82.py) | python   | easy       |      |
+| 345  | [反转字符串中的元音字母](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.6/345.%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%85%83%E9%9F%B3%E5%AD%97%E6%AF%8D.py) | python   | easy       |      |
+| 350  | [两数组的交集](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.6/350.%E4%B8%A4%E6%95%B0%E7%BB%84%E7%9A%84%E4%BA%A4%E9%9B%86.py) | python   | easy       |      |
+| 371  | [两整数之和](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.6/371.%E4%B8%A4%E6%95%B4%E6%95%B0%E4%B9%8B%E5%92%8C.py) | python   | easy       |      |
+| 383  | [赎金信](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.6/383.%E8%B5%8E%E9%87%91%E4%BF%A1.py) | python   | easy       |      |
+| 401  | [二进制手表](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.6/401.%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%89%8B%E8%A1%A8.py) | python   | easy       |      |
+| 404  | [左叶子之和](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.6/404.%E5%B7%A6%E5%8F%B6%E5%AD%90%E4%B9%8B%E5%92%8C.py) | python   | easy       |      |
+| 405  | [数字转化为16进制](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.6/405.%E6%95%B0%E5%AD%97%E8%BD%AC%E5%8C%96%E4%B8%BA16%E8%BF%9B%E5%88%B6.py) | python   | easy       |      |
+| 409  | [最长回文串](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.6/409.%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E4%B8%B2.py) | python   | easy       |      |
+| 414  | [第三大的数](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.6/414.%E7%AC%AC%E4%B8%89%E5%A4%A7%E7%9A%84%E6%95%B0.py) | python   | easy       |      |
+| 416  | [字符串相加](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.6/416.%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9B%B8%E5%8A%A0.py) | python   | easy       |      |
+| 437  | [路经总和3](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.6/437.%E8%B7%AF%E7%BB%8F%E6%80%BB%E5%92%8C3.py) | python   | easy       |      |
+| 438  | [找到字符串中所有字母异位词](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.6/438.%E6%89%BE%E5%88%B0%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E6%89%80%E6%9C%89%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D.py) | python   | easy       |      |
+| 443  | [压缩字符串](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.6/443.%E5%8E%8B%E7%BC%A9%E5%AD%97%E7%AC%A6%E4%B8%B2.py) | python   | easy       |      |
+| 447  | [回旋镖的数量](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.6/447.%E5%9B%9E%E6%97%8B%E9%95%96%E7%9A%84%E6%95%B0%E9%87%8F.py) | python   | easy       |      |
+| 448  | [找到数字中所有消失的数字](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.6/448.%E6%89%BE%E5%88%B0%E6%95%B0%E5%AD%97%E4%B8%AD%E6%89%80%E6%9C%89%E6%B6%88%E5%A4%B1%E7%9A%84%E6%95%B0%E5%AD%97.py) | python   | easy       |      |
+| 455  | [分发饼干](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.6/455.%E5%88%86%E5%8F%91%E9%A5%BC%E5%B9%B2.py) | python   | easy       |      |
+| 458  | [可怜的小猪](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.6/458.%E5%8F%AF%E6%80%9C%E7%9A%84%E5%B0%8F%E7%8C%AA.py) | python   | easy       |      |
+| 459  | [重复的子字符串](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.6/459.%E9%87%8D%E5%A4%8D%E7%9A%84%E5%AD%90%E5%AD%97%E7%AC%A6%E4%B8%B2.py) | python   | easy       |      |
+| 463  | [岛屿的周长](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.6/463.%E5%B2%9B%E5%B1%BF%E7%9A%84%E5%91%A8%E9%95%BF.py) | python   | easy       |      |
+| 475  | [供暖器](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.6/475.%E4%BE%9B%E6%9A%96%E5%99%A8.py) | python   | easy       |      |
 
 
 
