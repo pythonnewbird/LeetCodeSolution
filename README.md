@@ -62,6 +62,40 @@
 | 459  | [重复的子字符串](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.6/459.%E9%87%8D%E5%A4%8D%E7%9A%84%E5%AD%90%E5%AD%97%E7%AC%A6%E4%B8%B2.py) | python   | easy       |      |
 | 463  | [岛屿的周长](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.6/463.%E5%B2%9B%E5%B1%BF%E7%9A%84%E5%91%A8%E9%95%BF.py) | python   | easy       |      |
 | 475  | [供暖器](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.6/475.%E4%BE%9B%E6%9A%96%E5%99%A8.py) | python   | easy       |      |
+==
+## 2018/6/7:<br>
+| #    | Title                                    | Solution | Difficulty | tips |
+| ---- | ---------------------------------------- | -------- | ---------- | ---- |
+| 479  | [最大回文数乘积](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.7/479.%E6%9C%80%E5%A4%A7%E5%9B%9E%E6%96%87%E6%95%B0%E4%B9%98%E7%A7%AF.py) | python   | easy       |      |
+| 482  | [license  key formatting](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.7/482.license%20key%20formatting.py) | python   | easy       |      |
+| 492  | [构造矩形](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.7/492.%E6%9E%84%E9%80%A0%E7%9F%A9%E5%BD%A2.py) | python   | easy       |      |
+| 496  | [下一个更大的元素](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.7/496.%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%9B%B4%E5%A4%A7%E7%9A%84%E5%85%83%E7%B4%A0.py) | python   | easy       |      |
+| 500  | [键盘行](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.7/500.%E9%94%AE%E7%9B%98%E8%A1%8C.py) | python   | easy       |      |
+| 501  | [发现二叉搜索树中最多的元素](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.7/501.%E5%8F%91%E7%8E%B0%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%AD%E6%9C%80%E5%A4%9A%E7%9A%84%E5%85%83%E7%B4%A0.py) | python   | easy       |      |
+| 504  | [7进制数](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.7/504.7%E8%BF%9B%E5%88%B6%E6%95%B0.py) | python   | easy       |      |
+| 506  | [相对名次](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.7/506.%E7%9B%B8%E5%AF%B9%E5%90%8D%E6%AC%A1.py) | python   | easy       |      |
+| 507  | [完美数](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.7/507.%E5%AE%8C%E7%BE%8E%E6%95%B0.py) | python   | easy       |      |
+| 530  | [二叉搜索树的最小差值](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.7/530.%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E6%9C%80%E5%B0%8F%E5%B7%AE%E5%80%BC.py) | python   | easy       |      |
+| 532  | [数组中的k-diff对](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.7/532.%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84k-diff%E5%AF%B9.py) | python   | easy       |      |
+| 538  | [把二叉搜索树转化为累加树](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.7/538%E6%8A%8A%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E8%BD%AC%E5%8C%96%E4%B8%BA%E7%B4%AF%E5%8A%A0%E6%A0%91.py) | python   | easy       |      |
+| 541  | [反转字符串Ⅱ](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.7/541.%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E2%85%A1.py) | python   | easy       |      |
+| 543  | [二叉树的直径](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.7/543.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E7%9B%B4%E5%BE%84.py) | python   | easy       |      |
+| 563  | [二叉树的坡度](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.7/563.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%9D%A1%E5%BA%A6.py) | python   | easy       |      |
+| 566  | [重塑矩阵](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.7/566.%E9%87%8D%E5%A1%91%E7%9F%A9%E9%98%B5.py) | python   | easy       |      |
+| 572  | [树的另一个子树](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.7/572.%E6%A0%91%E7%9A%84%E5%8F%A6%E4%B8%80%E4%B8%AA%E5%AD%90%E6%A0%91.py) | python   | easy       |      |
+| 581  | [最短无序连续子数组](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.7/581.%E6%9C%80%E7%9F%AD%E6%97%A0%E5%BA%8F%E8%BF%9E%E7%BB%AD%E5%AD%90%E6%95%B0%E7%BB%84.py) | python   | easy       |      |
+| 594  | [最长和谐子序列](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.7/594.%E6%9C%80%E9%95%BF%E5%92%8C%E8%B0%90%E5%AD%90%E5%BA%8F%E5%88%97.py) | python   | easy       |      |
+| 596  | [大于5个学生的课程](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.7/596.%E5%A4%A7%E4%BA%8E5%E4%B8%AA%E5%AD%A6%E7%94%9F%E7%9A%84%E8%AF%BE%E7%A8%8B.py) | python   | easy       |      |
+| 599  | [两个列表索引总和的最小值](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.7/599.%E4%B8%A4%E4%B8%AA%E5%88%97%E8%A1%A8%E7%B4%A2%E5%BC%95%E6%80%BB%E5%92%8C%E7%9A%84%E6%9C%80%E5%B0%8F%E5%80%BC.py) | python   | easy       |      |
+| 605  | [种花问题](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.7/605.%E7%A7%8D%E8%8A%B1%E9%97%AE%E9%A2%98.py) | python   | easy       |      |
+| 606  | [根据二叉树创建字符串](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.7/606.%E6%A0%B9%E6%8D%AE%E4%BA%8C%E5%8F%89%E6%A0%91%E5%88%9B%E5%BB%BA%E5%AD%97%E7%AC%A6%E4%B8%B2.py) | python   | easy       |      |
+| 617  | [合并二叉树](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.7/617.%E5%90%88%E5%B9%B6%E4%BA%8C%E5%8F%89%E6%A0%91.py) | python   | easy       |      |
+| 620  | [有趣的电影](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.7/620.%E6%9C%89%E8%B6%A3%E7%9A%84%E7%94%B5%E5%BD%B1.py) | python   | easy       |      |
+| 628  | [三个数的最大乘积](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.7/628.%E4%B8%89%E4%B8%AA%E6%95%B0%E7%9A%84%E6%9C%80%E5%A4%A7%E4%B9%98%E7%A7%AF.py) | python   | easy       |      |
+| 633  | [平方数之和](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.7/633.%E5%B9%B3%E6%96%B9%E6%95%B0%E4%B9%8B%E5%92%8C.py) | python   | easy       |      |
+| 637  | [二叉树的层平均值](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.7/637.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%B1%82%E5%B9%B3%E5%9D%87%E5%80%BC.py) | python   | easy       |      |
+| 643  | [子数组最大平均数](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.7/643.%E5%AD%90%E6%95%B0%E7%BB%84%E6%9C%80%E5%A4%A7%E5%B9%B3%E5%9D%87%E6%95%B0.py) | python   | easy       |      |
+| 645  | [错误的集合](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.7/645.%E9%94%99%E8%AF%AF%E7%9A%84%E9%9B%86%E5%90%88.py) | python   | easy       |      |
 
 
 
