@@ -1,6 +1,7 @@
 # LeetCodeSolution
 尝试找到解决问题的最优解
 ==
+
 ## 2018/6/5:<br> 
 | #    | Title                                    | Solution | Difficulty | tips |
 | ---- | ---------------------------------------- | -------- | ---------- | ---- |
@@ -34,7 +35,9 @@
 | 235  | [二叉搜索树的最近公共祖先](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.5/235.%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88.py) | python   | easy       |      |
 | 257  | [二叉树的所有路径](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.5/257.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%89%80%E6%9C%89%E8%B7%AF%E5%BE%84.py) | python   | easy       |      |
 | 278  | [第一个错误的版本](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.5/278.%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%94%99%E8%AF%AF%E7%9A%84%E7%89%88%E6%9C%AC.py) | python   | easy       |      |
+
 ==
+
 ## 2018/6/6:<br>
 | #    | Title                                    | Solution | Difficulty | tips |
 | ---- | ---------------------------------------- | -------- | ---------- | ---- |
@@ -62,7 +65,9 @@
 | 459  | [重复的子字符串](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.6/459.%E9%87%8D%E5%A4%8D%E7%9A%84%E5%AD%90%E5%AD%97%E7%AC%A6%E4%B8%B2.py) | python   | easy       |      |
 | 463  | [岛屿的周长](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.6/463.%E5%B2%9B%E5%B1%BF%E7%9A%84%E5%91%A8%E9%95%BF.py) | python   | easy       |      |
 | 475  | [供暖器](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.6/475.%E4%BE%9B%E6%9A%96%E5%99%A8.py) | python   | easy       |      |
+
 ==
+
 ## 2018/6/7:<br>
 | #    | Title                                    | Solution | Difficulty | tips |
 | ---- | ---------------------------------------- | -------- | ---------- | ---- |
