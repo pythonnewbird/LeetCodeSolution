@@ -36,8 +36,7 @@
 | 257  | [二叉树的所有路径](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.5/257.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%89%80%E6%9C%89%E8%B7%AF%E5%BE%84.py) | python   | easy       |      |
 | 278  | [第一个错误的版本](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.5/278.%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%94%99%E8%AF%AF%E7%9A%84%E7%89%88%E6%9C%AC.py) | python   | easy       |      |
 
-==
-
+                  
 ## 2018/6/6:<br>
 | #    | Title                                    | Solution | Difficulty | tips |
 | ---- | ---------------------------------------- | -------- | ---------- | ---- |
@@ -66,7 +65,6 @@
 | 463  | [岛屿的周长](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.6/463.%E5%B2%9B%E5%B1%BF%E7%9A%84%E5%91%A8%E9%95%BF.py) | python   | easy       |      |
 | 475  | [供暖器](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.6/475.%E4%BE%9B%E6%9A%96%E5%99%A8.py) | python   | easy       |      |
 
-==
 
 ## 2018/6/7:<br>
 | #    | Title                                    | Solution | Difficulty | tips |
@@ -102,6 +100,44 @@
 | 643  | [子数组最大平均数](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.7/643.%E5%AD%90%E6%95%B0%E7%BB%84%E6%9C%80%E5%A4%A7%E5%B9%B3%E5%9D%87%E6%95%B0.py) | python   | easy       |      |
 | 645  | [错误的集合](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.7/645.%E9%94%99%E8%AF%AF%E7%9A%84%E9%9B%86%E5%90%88.py) | python   | easy       |      |
 
+## 2018/6/8:<br>
+| #    | Title                                    | Solution | Difficulty | tips |
+| ---- | ---------------------------------------- | -------- | ---------- | ---- |
+| 653  | [两数之和Ⅳ](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.8/653.%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C%E2%85%A3.py) | python   | easy       |      |
+| 661  | [image  Smoother](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.8/661.image%20Smoother.py) | python   | easy       |      |
+| 665  | [非递减数列](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.8/665.%E9%9D%9E%E9%80%92%E5%87%8F%E6%95%B0%E5%88%97.py) | python   | easy       |      |
+| 669  | [修建二叉搜索树](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.8/669.%E4%BF%AE%E5%BB%BA%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.py) | python   | easy       |      |
+| 671  | [二叉树中第二小的节点](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.8/671.%E4%BA%8C%E5%8F%89%E6%A0%91%E4%B8%AD%E7%AC%AC%E4%BA%8C%E5%B0%8F%E7%9A%84%E8%8A%82%E7%82%B9.py) | python   | easy       |      |
+| 674  | [最长连续递增序列](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.8/674.%E6%9C%80%E9%95%BF%E8%BF%9E%E7%BB%AD%E9%80%92%E5%A2%9E%E5%BA%8F%E5%88%97.py) | python   | easy       |      |
+| 680  | [验证回文字符串Ⅱ](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.8/680.%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E5%AD%97%E7%AC%A6%E4%B8%B2%E2%85%A1.py) | python   | easy       |      |
+| 682  | [棒球比赛](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.8/682.%E6%A3%92%E7%90%83%E6%AF%94%E8%B5%9B.py) | python   | easy       |      |
+| 686  | [重复叠加器字符串匹配](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.8/686.%E9%87%8D%E5%A4%8D%E5%8F%A0%E5%8A%A0%E5%99%A8%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%8C%B9%E9%85%8D(x-1).py) | python   | easy       | x-1` |
+| 687  | [数组的度](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.8/687.%E6%95%B0%E7%BB%84%E7%9A%84%E5%BA%A6.py) | python   | easy       |      |
+| 687  | [最长同值路径](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.8/687.%E6%95%B0%E7%BB%84%E7%9A%84%E5%BA%A6.py) | python   | easy       |      |
+| 690  | [员工的重要性](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.8/690.%E5%91%98%E5%B7%A5%E7%9A%84%E9%87%8D%E8%A6%81%E6%80%A7.py) | python   | easy       |      |
+| 693  | [交替位二进制数](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.8/693.%E4%BA%A4%E6%9B%BF%E4%BD%8D%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%95%B0.py) | python   | easy       |      |
+| 695  | [岛屿的最大面积](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.8/695.%E5%B2%9B%E5%B1%BF%E7%9A%84%E6%9C%80%E5%A4%A7%E9%9D%A2%E7%A7%AF.py) | python   | easy       |      |
+| 696  | [计数二进制子串](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.8/696.%E8%AE%A1%E6%95%B0%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%AD%90%E4%B8%B2.py) | python   | easy       |      |
+| 720  | [词典中最长的词](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.8/720.%E8%AF%8D%E5%85%B8%E4%B8%AD%E6%9C%80%E9%95%BF%E7%9A%84%E8%AF%8D.py) | python   | easy       |      |
+| 733  | [图像渲染](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.8/733.%E5%9B%BE%E5%83%8F%E6%B8%B2%E6%9F%93.py) | python   | easy       |      |
+| 746  | [使用最小花费爬楼梯](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.8/746.%E4%BD%BF%E7%94%A8%E6%9C%80%E5%B0%8F%E8%8A%B1%E8%B4%B9%E7%88%AC%E6%A5%BC%E6%A2%AF.py) | python   | easy       |      |
+| 762  | [二进制表示中质数个计算置位](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.8/762.%E4%BA%8C%E8%BF%9B%E5%88%B6%E8%A1%A8%E7%A4%BA%E4%B8%AD%E8%B4%A8%E6%95%B0%E4%B8%AA%E8%AE%A1%E7%AE%97%E7%BD%AE%E4%BD%8D.py) | python   | easy       |      |
+| 766  | [托普利茨矩阵](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.8/766.%E6%89%98%E6%99%AE%E5%88%A9%E8%8C%A8%E7%9F%A9%E9%98%B5.py) | python   | easy       |      |
+| 783  | [二叉搜索树中任意两节点最小差值](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.8/783.%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%AD%E4%BB%BB%E6%84%8F%E4%B8%A4%E8%8A%82%E7%82%B9%E6%9C%80%E5%B0%8F%E5%B7%AE%E5%80%BC.py) | python   | easy       |      |
+| 784  | [字母大小写全排列](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.8/784.%E5%AD%97%E6%AF%8D%E5%A4%A7%E5%B0%8F%E5%86%99%E5%85%A8%E6%8E%92%E5%88%97.py) | python   | easy       |      |
+| 788  | [旋转数字](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.8/788.%E6%97%8B%E8%BD%AC%E6%95%B0%E5%AD%97.py) | python   | easy       |      |
+| 804  | [唯一摩尔斯密码词](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.8/804.%E5%94%AF%E4%B8%80%E6%91%A9%E5%B0%94%E6%96%AF%E5%AF%86%E7%A0%81%E8%AF%8D.py) | python   | easy       |      |
+| 806  | [写字符串需要的行数](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.8/806.%E5%86%99%E5%AD%97%E7%AC%A6%E4%B8%B2%E9%9C%80%E8%A6%81%E7%9A%84%E8%A1%8C%E6%95%B0.py) | python   | easy       |      |
+| 811  | [子域名访问计数](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.8/811.%E5%AD%90%E5%9F%9F%E5%90%8D%E8%AE%BF%E9%97%AE%E8%AE%A1%E6%95%B0.py) | python   | easy       |      |
+| 812  | [最大三角形面积](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.8/812.%E6%9C%80%E5%A4%A7%E4%B8%89%E8%A7%92%E5%BD%A2%E9%9D%A2%E7%A7%AF.py) | python   | easy       |      |
+| 819  | [最常见的单词](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.8/819.%E6%9C%80%E5%B8%B8%E8%A7%81%E7%9A%84%E5%8D%95%E8%AF%8D.py) | python   | easy       |      |
+| 821  | [字符的最短距离](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.8/821.%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E7%9F%AD%E8%B7%9D%E7%A6%BB.py) | python   | easy       |      |
+| 832  | [翻转图像](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.8/832.%E7%BF%BB%E8%BD%AC%E5%9B%BE%E5%83%8F.py) | python   | easy       |      |
+| 2    | [两数相加](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.8-medium/2.%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0.py) | python   | medium     |      |
+| 3    | [无重复字符的最长子串](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.8-medium/3.%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2%E6%BB%91%E7%AA%97%E6%B3%95.py) | python   | medium     | 滑窗法  |
+| 5    | [最长回文子串](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.8-medium/5.%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2.py) | python   | medium     |      |
+| 6    | [Z字形变换](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.8-medium/6.Z%E5%AD%97%E5%BD%A2%E5%8F%98%E6%8D%A2.py) | python   | medium     |      |
+| 8    | [字符串转整数](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.8-medium/8.%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E6%95%B4%E6%95%B0.py) | python   | medium     |      |
 
 
 
