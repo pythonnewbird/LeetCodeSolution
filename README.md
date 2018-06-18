@@ -139,5 +139,36 @@
 | 6    | [Z字形变换](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.8-medium/6.Z%E5%AD%97%E5%BD%A2%E5%8F%98%E6%8D%A2.py) | python   | medium     |      |
 | 8    | [字符串转整数](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.8-medium/8.%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E6%95%B4%E6%95%B0.py) | python   | medium     |      |
 
+## 2018/6/11:<br>
+| #    | Title                                    | Solution | Difficulty | tips |
+| ---- | ---------------------------------------- | -------- | ---------- | ---- |
+| 15   | [三数之和](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.11/15.%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.py) | python   | medium     |      |
+| 16   | [最接近的三数之和](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.11/16.%E6%9C%80%E6%8E%A5%E8%BF%91%E7%9A%84%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.py) | python   | medium     |      |
+| 17   | [电话号码](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.11/17.%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81.py) | python   | medium     |      |
+| 18   | [四数之和](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.11/18.%E5%9B%9B%E6%95%B0%E4%B9%8B%E5%92%8C.py) | python   | medium     |      |
+| 19   | [删除链表的倒数第N个节点](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.11/19.%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%ACN%E4%B8%AA%E8%8A%82%E7%82%B9.py) | python   | medium     |      |
+| 22   | [括号生成](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.11/22.%E6%8B%AC%E5%8F%B7%E7%94%9F%E6%88%90.py) | python   | medium     |      |
+| 24   | [两两交换链表中的节点](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.11/24.%E4%B8%A4%E4%B8%A4%E4%BA%A4%E6%8D%A2%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9.py) | python   | medium     |      |
+| 25   | [k个一组翻转链表](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.11/25.k%E4%B8%AA%E4%B8%80%E7%BB%84%E7%BF%BB%E8%BD%AC%E9%93%BE%E8%A1%A8hard.py) | python   | hard       |      |
+| 29   | [两数相除](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.11/29.%E4%B8%A4%E6%95%B0%E7%9B%B8%E9%99%A4.py) | python   | medium     |      |
+| 31   | [下一个排列](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.11/31.%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%8E%92%E5%88%97.py) | python   | medium     |      |
+| 32   | [最长有效括号](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.11/32.%E6%9C%80%E9%95%BF%E6%9C%89%E6%95%88%E6%8B%AC%E5%8F%B7hard.py) | python   | hard       |      |
+| 33   | [搜索旋转排序数组](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.11/33.%E6%90%9C%E7%B4%A2%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84.py) | python   | medium     |      |
+| 34   | [搜索范围](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.11/34.%E6%90%9C%E7%B4%A2%E8%8C%83%E5%9B%B4.py) | python   | medium     |      |
+| 36   | [有效的数独](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.11/36.%E6%9C%89%E6%95%88%E7%9A%84%E6%95%B0%E7%8B%AC.py) | python   | medium     |      |
+| 39   | [组合总和](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.11/39.%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C.py) | python   | medium     |      |
+| 40   | [组合综合Ⅱ](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.11/40.%E7%BB%84%E5%90%88%E7%BB%BC%E5%90%88%E2%85%A1.py) | python   | medium     |      |
+| 41   | [缺失的第一个正数](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.11/41.%E7%BC%BA%E5%A4%B1%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%AD%A3%E6%95%B0.py) | python   | medium     |      |
+| 43   | [字符串相乘](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.11/43.%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9B%B8%E4%B9%98.py) | python   | medium     |      |
+| 46   | [全排列](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.11/46.%E5%85%A8%E6%8E%92%E5%88%97.py) | python   | medium     |      |
+| 47   | [全排列Ⅱ](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.11/47.%E5%85%A8%E6%8E%92%E5%88%97%E2%85%A1.py) | python   | medium     |      |
+| 48   | [旋转图像](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.11/48.%E6%97%8B%E8%BD%AC%E5%9B%BE%E5%83%8F.py) | python   | medium     |      |
+| 49   | [字母异位词分组](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.11/49.%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D%E5%88%86%E7%BB%84.py) | python   | medium     |      |
+| 50   | [Pow(x.n)](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.11/50.Pow(x.n).py) | python   | medium     |      |
+| 51   | [N皇后](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.11/51.N%E7%9A%87%E5%90%8Ehard.py) | python   | hard       |      |
+| 52   | [N皇后Ⅱ](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.11/52.N%E7%9A%87%E5%90%8E%E2%85%A1hard.py) | python   | hard       |      |
+| 54   | [螺旋矩阵](https://github.com/pythonnewbird/LeetCodeSolution/blob/master/6.11/54.%E8%9E%BA%E6%97%8B%E7%9F%A9%E9%98%B5.py) | python   | medium     |      |
+
+
 
 
