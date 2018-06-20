@@ -1,0 +1,11 @@
+SELECT Scores.Score, COUNT(Ranking.Score) AS RANK
+  FROM Scores
+     , (
+       SELECT DISTINCT Score
+         FROM Scores
+       ) Ranking
+ WHERE Scores.Score <= Ranking.Score
+ GROUP BY Scores.Id, Scores.Score
+ ORDER BY Scores.Score DESC;
+ 
+ #COUNT 指大于等于自己的distinct 分数的数目
